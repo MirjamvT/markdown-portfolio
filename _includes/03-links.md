@@ -1,1 +1,1 @@
-Replace this with a link to your a GitHub or social media profile.
+[job opening](https://about.publiccode.net/roles/quality.html)
